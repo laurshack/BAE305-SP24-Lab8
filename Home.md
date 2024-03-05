@@ -13,7 +13,16 @@ The purpose of this lab was to introduce us to the use of App Inventor. In this 
 
 ## Equipment
 
-
+- Computer to run Arduino IDE
+- Access to App Inventor
+- Android phone
+- Adaptor
+- Sparkfun Inventor's Kit
+  - RedBoard
+  - Ultrasonic sensor HC-SR04
+  - Dual TB6612FNG, H-Bridge Motor Driver
+  - Two gear motors
+  - Wheel for each motor
 
 ## Testing, Design, and Methods
 
