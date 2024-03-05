@@ -8,7 +8,7 @@ Group members:
 Date: 3/7/2024
 
 ## Summary
-The purpose of this lab was to introduce us to the use of App Inventor. In this lab, we worked with our robot that we had previously built, the focus of this lab was to work with the App Inventor software. The goal of this lab was to be able to operate our robot through the app. This was done by downloading our code from lab 6 onto our microcontroller (redboard) and using app inventor to connect loaded commands to buttons on our phone. The first part of the lab involved finishing the assembly of our robot, this had already been completed. The second part of the lab involved developing the app. App inventor utilizes block coding where each line is created as a block, this makes the process fairly simple. Part three of the lab was meant to involve the use of Bluetooth to control the robot, however, due to technical difficulties was dropped. The most challenging aspect of this lab was learning a new coding software.
+The purpose of this lab was to introduce us to the use of App Inventor. In this lab, we worked with our robot that we had previously built and used the App Inventor software to control it. The goal of this lab was to be able to operate our robot through the app. This was done by downloading our code from lab 6 onto our microcontroller (redboard) and using app inventor to connect loaded commands to buttons on our phone. The first part of the lab involved finishing the assembly of our robot, this had already been completed. The second part of the lab involved developing the app. App inventor utilizes block coding where each line is created as a block, this makes the process fairly simple. Part three of the lab was meant to involve the use of Bluetooth to control the robot, however, due to technical difficulties was dropped. The most challenging aspect of this lab was learning a new coding software.
 
 
 ## Equipment
@@ -40,7 +40,7 @@ The purpose of this lab was to introduce us to the use of App Inventor. In this 
 
 ### Part 1 - Assemble and Test Your Robot
 In Lab 6 we found out what was the minimum speed that will move the motors. What is the minimum speed that will move the complete car?
-> In lab when we investigated the minimum speed to operate, we determined that the number was "30". However, after assembling the complete car we determined that the minimum number to induce motion was "20". In lab 6 we attributed the value to being non-zero because of factors such as friction and electricity. As we added wheels and movement the minimum speed to operate decreased. We are confused as to what this could be attributed to.
+> In lab when we investigated the minimum speed to operate, we determined that the number was "30". However, after assembling the complete car we determined that the minimum number to induce motion was "20". In lab 6 we attributed the value to being non-zero because of factors such as friction and electricity, but as we added wheels and movement the minimum speed to operate decreased, so we are confused as to what this could be attributed to.
 
 ## Conclusion
 
