@@ -38,5 +38,12 @@ The purpose of this lab was to introduce us to the use of App Inventor. In this 
 
 ## Discussion
 
+### Part 1 - Assemble and Test Your Robot
+In Lab 6 we found out what was the minimum speed that will move the motors. What is the minimum speed that will move the complete car?
+> In lab when we investigated the minimum speed to operate, we determined that the number was "30". However, after assembling the complete car we determined that the minimum number to induce motion was "20". In lab 6 we attributed the value to being non-zero because of factors such as friction and electricity. As we added wheels and movement the minimum speed to operate decreased. We are confused as to what this could be attributed to.
 
 ## Conclusion
+
+This lab introduced us to App Inventor software. This software is used to 
+
+
