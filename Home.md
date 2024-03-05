@@ -44,6 +44,7 @@ In Lab 6 we found out what was the minimum speed that will move the motors. What
 
 ## Conclusion
 
-This lab introduced us to App Inventor software. This software is used to 
+This lab introduced us to App Inventor software. Utilizing an app can make the user interface more simple to use especially for people unfamiliar with code. One way this is done is by linking commands to buttons which makes it so users can simply press a button to send a command. However, the app development software we used still requires that code be uploaded using Arduino IDE to the microcontroller. Another component we were meant to work with was Bluetooth, which allows commands from the app to be sent to the microcontroller through Bluetooth. This is important because this allows control of the machine without a physical connection.
 
+The main takeaway of this lab is the ability to utilize our microcontroller, Arduino IDE code, and app inventor software. Using app inventor helped us become familiar with the use of their block coding format, as well as how to connect commands for our original codes to buttons. Working with app inventor gave us an important tool for our final project, this software could be used to create buttons to control the movement or drop of our claw. This lab was also a good jumping-off point for learning more about App inventor, for example, the use of the slider function to create variable motor speed on the claw. 
 
