@@ -26,15 +26,35 @@ The purpose of this lab was to introduce us to the use of App Inventor. In this 
 
 ## Testing, Design, and Methods
 
-![image](https://github.com/Perc312/BAE305-SP24-Lab8/assets/156240511/15fb0448-7c61-4061-9785-303ec838a527)
+### Part 1 - Assemble and test robot
 
-![image](https://github.com/Perc312/BAE305-SP24-Lab8/assets/156240511/b46a36ee-f392-4ee2-9d0a-778505a4206c)
+1. Attach the 2 wheels to the motors used in Lab 6.
+2. Verify that the robot moves forward, backward, right, and left.
+3. Attach the battery pack to the bottom of the robot. 
+
+### Part 2 - Develop the app
+
+1. Create an account or log in to the App Inventor 2 Web-based tool.
+2. Create a new project.
+3. Insert a button to initialize the serial communication (shown at Open_Serial in step 5). 
+4. From the Connectivity section add a Serial component (shown at Serial1 in step 5). 
+5. In the Blocks environment add the blocks shown below:
+
+![image](https://github.com/Perc312/BAE305-SP24-Lab8/assets/156240511/21f9b9f8-94bd-4c2c-b6e4-191e4d5ae541)
+
+6. Use the “call serialObject.WriteSerial” block and a “text” block to send the commands to the RedBoard. The text commands should be the same commands used in the Arduino IDE Serial Monitor. 
+7. Use the QR code to install the app on your phone. Connect your phone to the RedBoard using a USB-C to USB-A cable. 
+
 
 
 
 ## Results
+### Part 2 - Developing the app
+![image](https://github.com/Perc312/BAE305-SP24-Lab8/assets/156240511/15fb0448-7c61-4061-9785-303ec838a527)
 
+### Part 3 - Wireless remote
 
+![image](https://github.com/Perc312/BAE305-SP24-Lab8/assets/156240511/b46a36ee-f392-4ee2-9d0a-778505a4206c)
 
 ## Discussion
 
