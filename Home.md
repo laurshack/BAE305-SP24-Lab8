@@ -50,13 +50,14 @@ The purpose of this lab was to introduce us to the use of App Inventor. In this 
 
 ## Results
 ### Part 2 - Developing the app
-![image](https://github.com/Perc312/BAE305-SP24-Lab8/assets/156240511/15fb0448-7c61-4061-9785-303ec838a527)
 
-![image](https://github.com/Perc312/BAE305-SP24-Lab8/assets/156240511/b9e9882f-3abb-4476-ba68-1d60237218d6)
+| ![image](https://github.com/Perc312/BAE305-SP24-Lab8/assets/156240511/15fb0448-7c61-4061-9785-303ec838a527) |
+| :---: |
+| Blocks for controlling the robot with the app |
 
-### Part 3 - Wireless remote
-
-![image](https://github.com/Perc312/BAE305-SP24-Lab8/assets/156240511/b46a36ee-f392-4ee2-9d0a-778505a4206c)
+| ![image](https://github.com/Perc312/BAE305-SP24-Lab8/assets/156240511/b9e9882f-3abb-4476-ba68-1d60237218d6) |
+| :---: |
+| User interface of the app |
 
 ## Discussion
 
