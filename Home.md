@@ -15,8 +15,8 @@ The purpose of this lab was to introduce us to the use of App Inventor. In this 
 
 - Computer to run Arduino IDE
 - Access to App Inventor
-- Android phone
-- Adaptor
+- Android phone with MIT AI2 Companion app
+- USB-A to USB-C Adaptor
 - Sparkfun Inventor's Kit
   - RedBoard
   - Ultrasonic sensor HC-SR04
@@ -40,10 +40,13 @@ The purpose of this lab was to introduce us to the use of App Inventor. In this 
 4. From the Connectivity section add a Serial component (shown at Serial1 in step 5). 
 5. In the Blocks environment add the blocks shown below:
 
-![image](https://github.com/Perc312/BAE305-SP24-Lab8/assets/156240511/21f9b9f8-94bd-4c2c-b6e4-191e4d5ae541)
+|![image](https://github.com/Perc312/BAE305-SP24-Lab8/assets/156240511/21f9b9f8-94bd-4c2c-b6e4-191e4d5ae541)|
+|:---:|
+|*Figure 1.* Blocks to control serial communication|
+
 
 6. Use the “call serialObject.WriteSerial” block and a “text” block to send the commands to the RedBoard. The text commands should be the same commands used in the Arduino IDE Serial Monitor. 
-7. Use the QR code to install the app on your phone. Connect your phone to the RedBoard using a USB-C to USB-A cable. 
+7. Use the QR code to install the app on your phone. Connect your phone to the RedBoard using a USB-C to USB-A cable/adaptor. 
 
 
 
@@ -53,11 +56,13 @@ The purpose of this lab was to introduce us to the use of App Inventor. In this 
 
 | ![image](https://github.com/Perc312/BAE305-SP24-Lab8/assets/156240511/15fb0448-7c61-4061-9785-303ec838a527) |
 | :---: |
-| Blocks for controlling the robot with the app |
+| *Figure 2.* Blocks for controlling the robot with the app |
 
 | ![image](https://github.com/Perc312/BAE305-SP24-Lab8/assets/156240511/b9e9882f-3abb-4476-ba68-1d60237218d6) |
 | :---: |
-| User interface of the app |
+| *Figure 3.* User interface of the app |
+
+> With the blocks and buttons shown, the app can be used to control the robot and have it move in the desired direction at one of the three set speeds.
 
 ## Discussion
 
